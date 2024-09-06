@@ -1,0 +1,124 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.logo {
+    margin-top: 40px;
+    margin-left: 300px;
+    width: 12%;
+    height: 12%;
+    display: inline;
+}
+
+#menu,
+a {
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+}
+
+
+
+#menu {
+    margin-left: 580px;
+    margin-top: -50px;
+}
+
+span {
+    color: #aa7a4f;
+    margin: 20px;
+}
+
+     span {
+         color: #aa7a4f;
+     }
+
+
+     hr {
+        color: #aa7a4f;
+        margin-top: 10px;
+        margin-bottom: 1px;
+        border-style: solid;
+        border-width: 5px;
+        margin-top: 20px;
+    }
+ 
+    .hr2 {
+        margin-top: 60px;
+    }
+
+
+     #main {
+         margin-left: 300px;
+         margin-right: 300px;
+     }
+
+     footer {
+         margin-top: 10px;
+         font-size: 20px;
+         text-align: center;
+     }
+
+     h1 {
+         color: #aa7a4f;
+         margin-bottom: 20px;
+     }
+
+     .botao {
+         background-color: #aa7a4f;
+         border-color: transparent;
+         color: white;
+         border-radius: 100px;
+         margin-left: 280px;
+         width: 150px;
+         height: 40px;
+     }
+
+     .tel {
+         color: #aa7a4f;
+     }
+
+     fieldset {
+         padding: 68px;
+         margin-left: 15%;
+         margin-right: 55%;
+         margin-top: 100px;
+         border: solid 3px;
+         border-color: #aa7a4f;
+     }
+
+     input {
+         border-color: #aa7a4f;
+         border-radius: 100px;
+         padding: 15px;
+         width: 400px;
+         font-size: 15px;
+     }
+
+     .oi {
+         margin-left: 130px;
+         font-size: 20px;
+         font-weight: bold;
+         float: left;
+
+     }
+
+     .face,
+     .insta,
+     .whats {
+         margin-left: 15px;
+
+     }
+
+     .social-midia {
+         margin-top: 40px;
+        
+     }
+
+     .face,
+     .insta,
+     .whats {
+         width: 35px;
+     }
